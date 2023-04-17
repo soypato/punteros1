@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681699685 source:c:\users\soypato\desktop\guia3bis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
